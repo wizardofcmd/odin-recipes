@@ -1,0 +1,21 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to bottom right, rgb(255, 255, 96), rgb(223, 76, 76), rgb(72, 72, 247));
+    background-repeat: no-repeat;
+    color: white;
+}
+
+h1,
+a,
+ul .home-links {
+    color: black;
+}
+
+ol{
+    font-weight: 100;
+}
+
+#hotdog-img {
+    max-width: 500px;
+    height: auto;
+}
